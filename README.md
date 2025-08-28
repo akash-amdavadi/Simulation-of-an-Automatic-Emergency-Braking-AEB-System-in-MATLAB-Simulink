@@ -1,1 +1,1 @@
-# Simulation of an Automatic Emergency Braking (AEB) System in MATLAB/Simulink
+# MATLAB/Simulink-based Automatic Emergency Braking (AEB) system with TTC-based decision logic and virtual testing on dry, wet, and icy roads
